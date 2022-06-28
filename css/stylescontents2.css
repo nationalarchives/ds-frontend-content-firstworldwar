@@ -1,0 +1,59 @@
+.maintext {  font-family: Arial, Helvetica, san-serif; color: #000000}
+.smalltext { font-family: Arial, Helvetica, sans-serif; font-size: x-small; color: #333333; line-height: 90%}
+.maintext2 { font-family: Arial, Helvetica, san-serif;  color: #003366}
+.ref { font-family: Geneva, Arial, Helvetica, san-serif; font-size: 12px; color: #003366; font-style: italic}
+.jumptext { font-family: Arial, Helvetica, sans-serif; font-size: x-small; color: #000000; font-weight: normal; letter-spacing: -1em}
+.smalltextwhite { font-family: Arial, Helvetica, sans-serif; font-size: small; color: #FFFFFF}
+body {  }
+
+
+a:link {  font-family: Arial, Helvetica, sans-serif;  font-weight: bolder; color: #006699; text-decoration: none}
+a:visited {  font-family: Arial, Helvetica, sans-serif;  font-weight: bold; color: #663300; text-decoration: none}
+a:hover {  font-family: Arial, Helvetica, sans-serif;  font-weight: bold; color: #000000; text-decoration: none}
+a:active {  font-family: Arial, Helvetica, sans-serif;  font-weight: bold; color: #000000; text-decoration: none}
+img {  border: #003366}
+.timelinedate {  font-family: "Times New Roman", Times, serif; font-size: 140%; color: #003366; font-weight: bold}
+
+body{
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+background-image: url(../graphics/bookwriting2.gif); background-color: #CCCC99
+}
+
+.glossary:link {  font-family: "Times New Roman"; font-size: 130%; font-weight: bold; color: #006699; text-decoration: none}
+.glossary:visited {  font-family: "Times New Roman"; font-size: 130%; font-weight: bold; color: #666633; text-decoration: none}
+.glossary:hover {  font-family: Times New Roman; font-size: 130%; font-weight: bold; color: #000000; text-decoration: none}
+.glossary:active {  font-family: Times New Roman; font-size: 130%; font-weight: bold; color: #000000; text-decoration: none}
+
+
+
+
+.letter {  font-family: "Times New Roman", Times, serif; font-size: 250%; font-weight: bolder; color: #003366}
+.stillsheading {  font-family: "Times New Roman", Times, serif; font-size: 120%; font-weight: bold; color: #CCCC99}
+h4 {  font-family: "Times New Roman", Times, serif; font-size: x-large; color: #003366; font-weight: bolder}
+h5 {  font-family: "Times New Roman", Times, serif; font-size: large}
+h5 {  font-weight: bolder; color: #333333}
+.toptable {  background-repeat: no-repeat}
+.titlesub {  font-family: "Times New Roman", Times, serif; font-size: 120%; font-weight: bolder; color: #333333}
+.texttranscript {  font-family: "Times New Roman", Times, serif; color: #000000}
+.handwritten {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #990000; font-size: 90%}
+.underline {  text-decoration: underline}
+.indent {  text-indent: 10%}
+.tab {  margin-left: 10%}
+hr {  color: #003366}
+h6 {  font-family: "Times New Roman", Times, serif; font-size: medium; color: #333300}
+.backbook2{
+	background-image: url(../graphics/bookwriting2.gif);
+}.indexback {
+	background-color: #000000;
+}
+.indexframe {
+	background-color: #003366;
+	border-top: 0px solid #003366;
+	border-right: 4px solid #003366;
+	border-bottom: 5px solid #003366;
+	border-left: 5px solid #003366;
+
+}
